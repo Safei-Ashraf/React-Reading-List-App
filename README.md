@@ -7,24 +7,4 @@ Built with React, using React Context API + Hooks.
 
 ## File Structure:
 
-README.md
-package-lock.json
-package.json
-public
-   |-- favicon.ico
-   |-- index.html
-   |-- logo192.png
-   |-- logo512.png
-   |-- manifest.json
-   |-- robots.txt
-src
-   |-- App.js
-   |-- Components
-   |   |-- BookInfo.js
-   |   |-- BookList.js
-   |   |-- Navbar.js
-   |   |-- NewBookForm.js
-   |-- Context
-   |   |-- BookContext.js
-   |-- index.css
-   |-- index.js
+
